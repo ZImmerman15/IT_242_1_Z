@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>Chapter_4_take_2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="C:\Users\zimmerman15\Documents\Visual Studio 2019\Projects\Chapter 4 take 2.csproj" Link="Chapter 4 take 2.csproj" />
+  </ItemGroup>
+
+</Project>

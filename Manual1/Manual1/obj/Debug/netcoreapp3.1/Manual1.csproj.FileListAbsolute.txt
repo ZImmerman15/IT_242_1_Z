@@ -1,0 +1,11 @@
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\bin\Debug\netcoreapp3.1\Manual1.exe
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\bin\Debug\netcoreapp3.1\Manual1.deps.json
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\bin\Debug\netcoreapp3.1\Manual1.runtimeconfig.json
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\bin\Debug\netcoreapp3.1\Manual1.runtimeconfig.dev.json
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\bin\Debug\netcoreapp3.1\Manual1.dll
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\bin\Debug\netcoreapp3.1\Manual1.pdb
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\obj\Debug\netcoreapp3.1\Manual1.csprojAssemblyReference.cache
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\obj\Debug\netcoreapp3.1\Manual1.AssemblyInfoInputs.cache
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\obj\Debug\netcoreapp3.1\Manual1.AssemblyInfo.cs
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\obj\Debug\netcoreapp3.1\Manual1.dll
+C:\Users\zimmerman15\Source\Repos\Manual1\Manual1\obj\Debug\netcoreapp3.1\Manual1.pdb

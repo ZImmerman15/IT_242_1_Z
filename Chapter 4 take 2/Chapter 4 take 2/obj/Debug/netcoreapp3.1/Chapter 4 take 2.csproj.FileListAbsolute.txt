@@ -1,0 +1,11 @@
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\obj\Debug\netcoreapp3.1\Chapter 4 take 2.csprojAssemblyReference.cache
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\obj\Debug\netcoreapp3.1\Chapter 4 take 2.AssemblyInfoInputs.cache
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\obj\Debug\netcoreapp3.1\Chapter 4 take 2.AssemblyInfo.cs
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\bin\Debug\netcoreapp3.1\Chapter 4 take 2.exe
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\bin\Debug\netcoreapp3.1\Chapter 4 take 2.deps.json
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\bin\Debug\netcoreapp3.1\Chapter 4 take 2.runtimeconfig.json
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\bin\Debug\netcoreapp3.1\Chapter 4 take 2.runtimeconfig.dev.json
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\bin\Debug\netcoreapp3.1\Chapter 4 take 2.dll
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\bin\Debug\netcoreapp3.1\Chapter 4 take 2.pdb
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\obj\Debug\netcoreapp3.1\Chapter 4 take 2.dll
+C:\Users\zimmerman15\Source\Repos\Chapter 4 take 2\Chapter 4 take 2\obj\Debug\netcoreapp3.1\Chapter 4 take 2.pdb
